@@ -1,4 +1,4 @@
-# Device tree for the Tecno Pova 4 (LG7n)
+# Device tree for the Tecno Pova 4 (LH7n)
 
 ## Device specifications
 
